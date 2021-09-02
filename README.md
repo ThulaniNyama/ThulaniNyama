@@ -31,7 +31,7 @@ Facts:
 - 📫 How to reach me: nyamathulani@gmail.com
 - 😄 Pronouns: Tools
 - ⚡ Fun fact: Solving Rubik's cubes
-- Skills :
+- 💻 Skills
 <div class="column">
   <p>Operating Systems</p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
