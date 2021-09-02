@@ -1,13 +1,31 @@
 ### Hi there 👋
 
+My friends and peers call me “Tools” which is drawn from my name Thulani.
+I would like to assume that they see me as a ‘toolbox’ that contains numerous
+instruments to develop, design and fix code in a peculiar way.
+I am a natural problem solver, from chess and competitive board games to
+Rubik’s cubes – this is actually where my love for code derives from.
 
-**ThulaniNyama/ThulaniNyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I tend to see myself as a versatile Software Developer since I learn new
+technologies constantly. My skills range from C# (WCF, WPF, REST and
+NUnit), ASP.Net, C, PHP, React, SQL databases and Firebase not forgetting Git.
+I have been exposed to a wide variety of technologies in my career and C# has
+been a constant improvement integrated with the likes of XAMARIN, Unity
+and Docker. I have therefore refined my strengths throughout my experience.
+With this said, I consider myself to be very adaptable, a plug and play kind of person.
 
-Here are some ideas to get you started:
+Apart from coding, I like to spread laughter, knowledge, and positive energy.
+It would be a great pleasure to learn more about your team’s needs and I
+would warmly welcome the chance to provide further insight into my
+knowledge of software development skills, technical abilities, personal
+attributes and start a track record of success into building revenue generating
+solutions compatible across multiple platforms, browsers and devices.
+
+Facts:
 
 - 🔭 I’m currently in the job market...
 - 🌱 I’m currently learning Azure
-- 👯 I’m looking to collaborate on new opportunities
+- 👯 I’m open to collaborate on new opportunities
 - 🤔 I’m looking for help with : Sofware/Web Developement job opportunities
 - 💬 Ask me a PROBLEM
 - 📫 How to reach me: nyamathulani@gmail.com
