@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="https://docs.microsoft.com/en-us/windows/images/csharp-logo.png" alt="C#">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" alt="Java">
-<img src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo.png" alt="C">
+<img src="![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)" alt="C">
 <img src="https://www.ilounge.com/wp-content/uploads/2021/07/apple-swift-hero.png" alt="Swift">
 <br><br>
 <img src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo.png" alt="ASP.Net Core">
