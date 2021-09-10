@@ -70,7 +70,7 @@ Facts:
 </div>
 <div class="column">
   <hr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThulaniNyama&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThulaniNyama&layout=compact&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats">
   <p>Programming Languages</p>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
