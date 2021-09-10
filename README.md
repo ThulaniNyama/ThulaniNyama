@@ -47,7 +47,8 @@ Facts:
   <a href="https://developer.android.com/studio">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   </a>
-</div> 
+</div>
+<hr>
 <div class="column">
   <p>Browsers</p>
   <a href="https://www.google.com/chrome/fast-and-secure/">
@@ -67,7 +68,7 @@ Facts:
   </a>
 </div>
 <div class="column">
-  <br>
+  <hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThulaniNyama&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
   <p>Programming Languages</p>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
@@ -101,6 +102,7 @@ Facts:
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
   </a>
 </div>
+<hr>
 <div class="column">
   <p>Frameworks</p>
   <a href="https://dotnet.microsoft.com/">
@@ -113,18 +115,21 @@ Facts:
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
 </div>
+<hr>
 <div class="column">
   <p>Platforms</p>
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </a>
 </div>
+<hr>
 <div class="column">
   <p>Libraries</p>
   <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   </a>
 </div>
+<hr>
 <div class="column">
   <p>Packages</p>
   <a href="https://www.npmjs.com/">
@@ -134,6 +139,7 @@ Facts:
     <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
   </a>
 </div>
+<hr>
 <div class="column">
   <p>Databases</p>
   <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15">
@@ -152,6 +158,7 @@ Facts:
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
   </a>
 </div>
+<hr>
 <div class="column">
   <p>Tools</p>
   <a href="https://trello.com/en">
@@ -161,6 +168,7 @@ Facts:
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   </a>
 </div>
+<hr>
 <div class="column">
   <p>IDEs</p>
   <a href="https://visualstudio.microsoft.com/downloads/">
@@ -182,6 +190,7 @@ Facts:
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
   </a>
 </div>
+<hr>
 <div class="column">
   <p>Version Control</p>
   <a href="https://git-scm.com/">
@@ -191,6 +200,7 @@ Facts:
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
+<hr>
 <div class="column">
   <p>Social</p>
   <a href="https://www.linkedin.com/in/thulani-nyama-816194198/">
