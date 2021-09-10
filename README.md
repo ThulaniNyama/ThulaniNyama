@@ -91,6 +91,9 @@ Facts:
   <a href="https://www.w3.org/Style/CSS/Overview.en.html">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
+  <a href="https://www.json.org/json-en.html">
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="Json">
+  </a>
   <a href="https://graphql.org/">
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
   </a>
