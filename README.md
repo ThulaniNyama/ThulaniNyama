@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=ThulaniNyama&show_icons=true&theme=github_dark">
+
 ## Hi there 👋
 
 My friends and peers call me “Tools” which is drawn from my name Thulani.
