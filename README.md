@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My friends and peers call me “Tools” which is drawn from my name Thulani.
 I would like to assume that they see me as a ‘toolbox’ that contains numerous
@@ -31,6 +31,7 @@ Facts:
 - 📫 How to reach me: nyamathulani@gmail.com
 - 😄 Pronouns: Tools
 - ⚡ Fun fact: Solving Rubik's cubes
+-    Stats
 - 💻 Skills
 <div class="column">
   <p>Operating Systems</p>
@@ -66,6 +67,8 @@ Facts:
   </a>
 </div>
 <div class="column">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThulaniNyama&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
   <p>Programming Languages</p>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
