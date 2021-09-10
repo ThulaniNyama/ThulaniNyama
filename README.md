@@ -31,7 +31,6 @@ Facts:
 - 📫 How to reach me: nyamathulani@gmail.com
 - 😄 Pronouns: Tools
 - ⚡ Fun fact: Solving Rubik's cubes
--    Stats
 - 💻 Skills
 <div class="column">
   <p>Operating Systems</p>
