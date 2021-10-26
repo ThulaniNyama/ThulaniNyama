@@ -1,5 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ThulaniNyama&show_icons=true&theme=github_dark"> 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/ThulaniNyama)
+<img src="https://komarev.com/ghpvc/?username=ThulaniNyama&label=Thulani's+Profile+Views">
+<img src="https://github-readme-stats.vercel.app/api?username=ThulaniNyama&show_icons=true&theme=github_dark">
 
 ## Hi there 👋👩🏾‍💻
 
