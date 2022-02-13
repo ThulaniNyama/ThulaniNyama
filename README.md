@@ -9,7 +9,7 @@ instruments to develop, design and fix code in a peculiar way.
 I am a natural problem solver, from chess and competitive board games to
 Rubik’s cubes – this is actually where my love for code derives from.
 
-I tend to see myself as a versatile Software Developer since I learn new
+I tend to see myself as a versatile Developer since I learn new
 technologies constantly. My skills range from C# (WCF, WPF, REST and
 NUnit), ASP.Net, C, PHP, React, SQL databases and Firebase not forgetting Git.
 I have been exposed to a wide variety of technologies in my career and C# has
@@ -26,10 +26,8 @@ solutions compatible across multiple platforms, browsers and devices.
 
 Facts:
 
-- 🔭 I’m currently in the job market...
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning Power BI, Power Platform, Python, SQL, Azure
 - 👯 I’m open to collaborate on new opportunities
-- 🤔 I’m looking for help with : Sofware/Web Developement job opportunities
 - 💬 Ask me a PROBLEM
 - 📫 How to reach me: nyamathulani@gmail.com
 - 😄 Pronouns: Tools
