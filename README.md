@@ -220,4 +220,5 @@ Facts:
 </div>
 
 <hr>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThulaniNyama&color=4169e1&line=4169e1&point=4169e1&bg_color=000000&area=true&hide_border=false)
