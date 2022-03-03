@@ -28,7 +28,7 @@ solutions compatible across multiple platforms, browsers and devices.
 
 Facts:
 
-- 🌱 I’m currently learning Power BI, Power Platform, Python, SQL, Regression, AI,Azure
+- 🌱 I’m currently learning Power BI, Power Platform, Python, SQL, Regression, AI, Azure
 - 👯 I’m open to collaborate on new opportunities
 - 💬 Ask me a PROBLEM
 - 📫 How to reach me: nyamathulani@gmail.com
