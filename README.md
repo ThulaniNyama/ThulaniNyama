@@ -11,9 +11,9 @@ instruments to develop, design and fix code in a peculiar way.
 I am a natural problem solver, from chess and competitive board games to
 Rubik’s cubes – this is actually where my love for code derives from.
 
-I tend to see myself as a versatile Developer since I learn new
-technologies constantly. My skills range from C# (WCF, WPF, REST and
-NUnit), ASP.Net, C, PHP, React, SQL databases and Firebase not forgetting Git.
+I tend to see myself as a versatile Developer and aspiring Data Scientist since I learn new
+technologies constantly. My skills range from C# (WCF, WPF, REST and NUnit), ASP.Net, C, PHP,
+React, Python, Azure, AWS, SQL databases and Firebase not forgetting Git.
 I have been exposed to a wide variety of technologies in my career and C# has
 been a constant improvement integrated with the likes of XAMARIN, Unity
 and Docker. I have therefore refined my strengths throughout my experience.
@@ -28,13 +28,22 @@ solutions compatible across multiple platforms, browsers and devices.
 
 Facts:
 
-- 🌱 I’m currently learning Power BI, Power Platform, Python, SQL, Regression, AI, Azure
+- 🌱 I’m currently learning Power BI, Power Platform, Python, SQL, Machine Learning, AI, Azure, AWS
 - 👯 I’m open to collaborate on new opportunities
 - 💬 Ask me a PROBLEM
 - 📫 How to reach me: nyamathulani@gmail.com
-- 😄 Pronouns: Tools
+- 😄 Pronouns: Tools 🔨 
 - ⚡ Fun fact: Solving Rubik's cubes
 - 💻 Skills
+<hr>
+<div class="column">
+  <p>Data Science Tools</p>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://research.aimultiple.com/wp-content/uploads/2018/02/ds_stack_tools.png" alt="Data Science Tools">
+  </a>
+</div>
+<div class="column">
+  <hr>
 <div class="column">
   <p>Operating Systems</p>
   <a href="https://www.microsoft.com/en-gb/software-download/windows10">
@@ -176,14 +185,14 @@ Facts:
 <hr>
 <div class="column">
   <p>IDEs</p>
+  <a href="https://code.visualstudio.com/download">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  </a>
   <a href="https://visualstudio.microsoft.com/downloads/">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
   </a>
   <a href="https://netbeans.apache.org/download/index.html">
     <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
-  </a>
-  <a href="https://code.visualstudio.com/download">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   </a>
   <a href="https://www.jetbrains.com/phpstorm/download/#section=windows">
     <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHP STORM">
