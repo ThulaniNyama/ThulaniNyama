@@ -3,7 +3,7 @@
 <img height="145em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThulaniNyama&theme=github_dark" alt="Thulani" align="left"/>
 <br><br><br><br><br><br><br>
 
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">👩🏾‍💻
+## Hi there 👋 👩🏾‍💻
 
 My friends and peers call me “Tools” which is drawn from my name Thulani.
 I would like to assume that they see me as a ‘toolbox’ that contains numerous
